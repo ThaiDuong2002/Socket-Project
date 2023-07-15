@@ -1,0 +1,36 @@
+{
+  "profile": [
+    {
+      "username": "Duong",
+      "password": "1345"
+    },
+    {
+      "username": "Lac",
+      "password": "1345"
+    },
+    {
+      "username": "Typhon",
+      "password": "123456"
+    },
+    {
+      "username": "Typhon1",
+      "password": "1345"
+    },
+    {
+      "username": "Dương",
+      "password": "01204134200"
+    },
+    {
+      "username": "Typhon3",
+      "password": "Dương"
+    },
+    {
+      "username": "admin1",
+      "password": "123"
+    },
+    {
+      "username": "admin2",
+      "password": "123"
+    }
+  ]
+}
